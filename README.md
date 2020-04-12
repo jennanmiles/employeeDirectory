@@ -12,5 +12,5 @@ This app sorts employees using the search bar at the top or by filter. The searc
 
 
 ## links
-https://github.com/jennanmiles/employeeDirectory 
-https://jennanmiles.github.io/employeeDirectory/
+* https://github.com/jennanmiles/employeeDirectory 
+* https://jennanmiles.github.io/employeeDirectory/
